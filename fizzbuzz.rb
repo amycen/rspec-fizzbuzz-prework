@@ -6,4 +6,5 @@ def fizzbuzz(num)
   if num % 5 == 0
     str += "Buzz"
   end
+  str
 end
