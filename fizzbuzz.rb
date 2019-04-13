@@ -8,3 +8,11 @@ def fizzbuzz(num)
   end
   str
 end
+
+fizzbuzz(3)
+
+fizzbuzz(5)
+
+fizzbuzz(9)
+
+fizzbuzz(15)
