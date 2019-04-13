@@ -9,10 +9,10 @@ def fizzbuzz(num)
   str
 end
 
-fizzbuzz(3)
+puts fizzbuzz(3)
 
-fizzbuzz(5)
+puts fizzbuzz(5)
 
-fizzbuzz(9)
+puts fizzbuzz(9)
 
-fizzbuzz(15)
+puts fizzbuzz(15)
