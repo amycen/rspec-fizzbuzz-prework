@@ -8,11 +8,3 @@ def fizzbuzz(num)
   end
   str
 end
-
-puts fizzbuzz(3)
-
-puts fizzbuzz(5)
-
-puts fizzbuzz(9)
-
-puts fizzbuzz(15)
