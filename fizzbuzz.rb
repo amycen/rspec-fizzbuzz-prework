@@ -7,4 +7,3 @@ def fizzbuzz(num)
   end
 end
 
-fizzbuzz(3)
