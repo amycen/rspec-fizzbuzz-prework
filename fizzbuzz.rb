@@ -7,4 +7,4 @@ def fizzbuzz(num)
   end
 end
 
-puts fizzbuzz(5)
+puts fizzbuzz(3)
