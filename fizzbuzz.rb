@@ -7,7 +7,3 @@ def fizzbuzz(num)
   end
 end
 
-puts fizzbuzz(3)
-puts fizzbuzz(6)
-puts fizzbuzz(5)
-puts fizzbuzz(10)
